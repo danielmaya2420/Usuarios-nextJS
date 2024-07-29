@@ -1,5 +1,7 @@
 # Usuarios-nextJS
 
+#API: https://reqres.in/api/users
+
 # Componentes:
 ![image](https://github.com/user-attachments/assets/6f3cc2fe-78c3-4c95-89eb-ab8770d1f899)
 
